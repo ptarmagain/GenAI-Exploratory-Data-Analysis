@@ -1,6 +1,6 @@
 # Exploratory Data Analysis with GenAI
 
-This is an application that uses generative AI to perform a low level EDA for a variety of data sources, enabling you to find key data insights and use cases faster.
+This is an application that uses generative AI to perform a low level EDA for a variety of data sources.
 
 Example use
 ```
